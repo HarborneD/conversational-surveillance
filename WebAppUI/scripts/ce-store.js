@@ -1,18 +1,22 @@
+//var ce_address = "http://localhost:8080";
+var ce_address = "http://82.9.108.61:6080";
+
+
 function HudsonAJAX(text,response_func,mode)
 {
-    var hudson_url = "http://localhost:8080/ce-store/special/hudson/executor";
+    var hudson_url = ce_address+"/ce-store/special/hudson/executor";
 
     switch(mode) {
     case "execute":
         break;
     case "interpret":
-        hudson_url = "http://localhost:8080/ce-store/special/hudson/interpreter";
+        hudson_url = ce_address+"/ce-store/special/hudson/interpreter";
         break
     case "answer":
-        hudson_url = "http://localhost:8080/ce-store/special/hudson/answerer";
+        hudson_url = ce_address+"/ce-store/special/hudson/answerer";
         break;
     case "help":
-        hudson_url = "http://localhost:8080/ce-store/special/hudson/helper";
+        hudson_url = ce_address+"/ce-store/special/hudson/helper";
         break;
     default:
         break;
@@ -65,7 +69,7 @@ function CheckForAction(response)
 
 
         var current_triple;
-        var current_triple_end;
+        var current_triple_end = 0;
 
         for(special of specials)
         {
@@ -74,6 +78,7 @@ function CheckForAction(response)
                 var end_position = special["end position"];
                 if(end_position > current_triple_end)
                 {
+                    current_triple_end = end_position;
                     current_triple = special;
                 }
                 
@@ -82,7 +87,7 @@ function CheckForAction(response)
 
         if (typeof(current_triple) !== 'undefined')
         {
-            HandleTriple(response,special);
+            HandleTriple(response,current_triple);
             return;
         }
     }
@@ -217,7 +222,7 @@ function DisplayGeoSource(source,display)
 
 function DisplayLocation(location,display)
 {
-    var location_search_url = "http://localhost:8080/ce-store/stores/DEFAULT/queries/LocationDisplaySearch/execute";
+    var location_search_url = ce_address+"/ce-store/stores/DEFAULT/queries/LocationDisplaySearch/execute";
     
     $.ajax({
         type: "GET",
@@ -245,7 +250,7 @@ function DisplayLocation(location,display)
 
 function DisplayRegion(region,display)
 {
-    var region_search_url = "http://localhost:8080/ce-store/stores/DEFAULT/queries/RegionDisplaySearch/execute";
+    var region_search_url = ce_address+"/ce-store/stores/DEFAULT/queries/RegionDisplaySearch/execute";
     
     $.ajax({
         type: "GET",
@@ -302,7 +307,7 @@ function DisplaySourcesFromArray(source_array,display)
 
 function GetEntityByID(id)
 {
-    var store_get_url = "http://localhost:8080/ce-store/stores/DEFAULT/instances/"+id;
+    var store_get_url = ce_address+"/ce-store/stores/DEFAULT/instances/"+id;
 
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", store_get_url, false );
@@ -316,7 +321,7 @@ function SaveSentence(sentence)
     var data = new FormData();
     data.append('ceText', sentence);
     
-    var store_get_url = "http://localhost:8080/ce-store/stores/DEFAULT/sentences";
+    var store_get_url = ce_address+"/ce-store/stores/DEFAULT/sentences";
 
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "POST", store_get_url, false );

@@ -30,6 +30,7 @@ function UpdateHelperContainer(response)
     $( "#input" ).autocomplete({ 
     source: suggested_messages,
     select: function (event, ui) {
+        event.preventDefault();
        $( "#send" ).trigger( "click" );
     }
 });
