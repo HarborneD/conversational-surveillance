@@ -1,0 +1,10 @@
+{
+    "group": {
+        "title": "Local sentence sets",
+        "links": [
+            { "url": "./ce/medicine/cmd/med_load.cecmd", "name": "Medicine (local)" },
+            { "url": "./ce/homes/cmd/load_all_local.cecmd", "name": "Conv Homes" },
+	    { "url": "./ce/surv/cmd/load_all_local.cecmd", "name": "Conv Surveillance" }
+        ]
+    }
+}
