@@ -1,0 +1,45 @@
+#overview_container
+{
+    margin-top:10px;
+   
+    border: black solid 1px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+/*     height:300px;
+    width:300px;*/
+}
+
+
+.ol-attribution
+{
+    display:none;
+}
+
+ .camera_marker {
+        width: 20px;
+        height: 20px;
+        opacity: 1;
+      }
+
+ .point_marker {
+        width: 20px;
+        height: 20px;
+        opacity: 1;
+      }
+
+#clone_point_marker
+{
+    display:none;
+}
+
+ #marker {
+        width: 20px;
+        height: 20px;
+        border: 1px solid #088;
+        border-radius: 10px;
+        background-color: #0FF;
+        opacity: 1;
+      }

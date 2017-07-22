@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Conversational Surveillance - UI</title>
+
+<!-- <link rel="shortcut icon" href="DH.ico" type="image/x-icon" /> 
+ -->
+
+<!-- <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+ -->
+
+<link rel="stylesheet" href="style/site.css" type="text/css">
+<link rel="stylesheet" href="style/ui_view.css" type="text/css">
+<link rel="stylesheet" href="style/corner_menu.css" type="text/css">
+<link rel="stylesheet" href="style/chat.css" type="text/css">
+<link rel="stylesheet" href="style/maps.css" type="text/css">
+<link rel="stylesheet" href="style/info_pane.css" type="text/css">
+<link rel="stylesheet" href="style/info_feed.css" type="text/css">
+
+<link rel="stylesheet" href="jquery-ui/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="https://openlayers.org/en/v4.2.0/css/ol.css" type="text/css">
+    
+
+
+
+
+
+
+  </head>
+  <body>
+<div id="body-content">
+
+  <h1>Conversational City Information Hub</h1>
+  <div id=top_bar>
+    <div id="feed_container"></div>
+    <div id="top_menu_container"></div>
+  </div>
+
+  <div id="panes_container">
+  
+    <div id="overview_pane">
+      <div id="overview_container">
+        <div id="map" class="map" tabindex="0"></div>
+        <img id="test_camera_marker" class="camera_marker" src="images/cctv.png"/>
+        <img id="clone_point_marker" class="point_marker" src="images/point.png"/>
+<!--          <button id="zoom-out">Zoom out</button>
+    <button id="zoom-in">Zoom in</button> -->
+      </div>
+    </div>
+
+    <div id="info_pane">
+      <div id="info_container">
+        
+      </div>
+    </div>
+  
+  </div>
+
+  <div id="convo_container">
+
+    <div id="message_container">    
+      <ul id="messages"></ul>
+    </div>
+
+    <div id="input_container">
+      <textarea id="input"></textarea>
+      <button id="send">Send</button>
+    </div>
+    <div id="helper_response_container"></div>
+
+  </div>
+
+</div>
+
+
+  <script src="scripts/jquery-3.2.1.min.js"></script>
+  <script src="jquery-ui/jquery-ui.min.js"></script>
+  
+  <script src="https://openlayers.org/en/v4.2.0/build/ol.js"></script>
+  
+  <script src="scripts/ce-store.js"></script>
+  
+  <script src="scripts/map.js"></script>
+
+  <script src="scripts/chat.js"></script>
+  
+
+
+  </body>
+</html>

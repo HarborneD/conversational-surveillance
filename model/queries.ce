@@ -1,0 +1,10 @@
+[RegionDisplaySearch]
+for which V1 and V2 is it true that 
+    ( the displayable thing V1 can show the region V2 )
+.
+
+[LocationDisplaySearch]
+for which V1 and V2 is it true that 
+    ( the displayable thing V1 can show the location V2 )
+.
+

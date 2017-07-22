@@ -1,0 +1,41 @@
+there is a region named 'Test Region' that
+    has '-0.00106046' as x1 and 
+    has '0.01141718' as x2 and 
+    has '51.54007850' as y1 and 
+    has '51.54510965' as y2 and 
+    has '0.00411844' as longitude and 
+    has '51.54229786' as latitude.
+
+there is a region boundry point named 'TR 1' that
+    bounds the region 'Test Region' and
+    has '51.54510965' as latitude and 
+    has '-0.00106046' as longitude.
+
+there is a region boundry point named 'TR 2' that
+    bounds the region 'Test Region' and
+    has '51.54510965' as latitude and 
+    has '0.01141718' as longitude.
+
+there is a region boundry point named 'TR 3' that
+    bounds the region 'Test Region' and
+    has '51.54007850' as latitude and 
+    has '0.01141718' as longitude.
+
+there is a region boundry point named 'TR 4' that
+    bounds the region 'Test Region' and
+    has '51.54007850' as latitude and 
+    has '-0.00106046' as longitude.
+
+
+
+there is a road named 'Romford Road' that
+  has '0.0529565' as longitude and 
+  has '51.5525474' as latitude and
+  has 'Romford Road' as road name and
+  is located in the region 'Test Region'.
+
+there is a road named 'Tennyson Road' that
+  has '0.0064386' as longitude and 
+  has '51.541137' as latitude and
+  has 'Tennyson Road' as road name and
+  is located in the region 'Test Region'.

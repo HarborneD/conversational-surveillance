@@ -1,0 +1,34 @@
+#convo_container
+{
+width:40%;
+display:inline-block;
+min-height:600px;
+float:right;
+vertical-align: top;
+}
+
+#panes_container
+{
+    width:58%;
+    display:inline-block;
+    min-height:250px;
+    float:left;
+    vertical-align: top;
+}
+
+
+#top_bar
+{
+    width:100%;
+    display:block;
+    min-height:40px;
+    border-bottom: solid black 1px;
+
+    border-top: solid black 1px;
+}
+
+#overview_pane,#info_pane
+{
+    width:100%;
+    box-sizing: border-box;
+}

@@ -1,0 +1,30 @@
+[ShowRegion]
+if
+  ( the displayable thing C can show the location R ) and
+  ( the location R is located in the region REG )
+then
+  ( the displayable thing C can show the region REG )
+.
+
+[DisplayableInRegion]
+if
+  ( the displayable thing DT has the value _X as longitude ) and 
+  ( the displayable thing DT has the value _Y as latitude ) and 
+  ( the region R1 has the value _X1 as x1 ) and 
+  ( the region R1 has the value _X2 as x2 ) and 
+  ( the region R1 has the value _Y1 as y1 ) and 
+  ( the region R1 has the value _Y2 as y2 ) and 
+  ( the value _X >= _X1 ) and
+  ( the value _X <= _X2 ) and
+  ( the value _Y >= _Y1 ) and
+  ( the value _Y <= _Y2 )
+then
+    ( the displayable thing DT is located in the region R1 )
+.
+
+[InRegionShowRegion]
+if
+  ( the displayable thing C is located in the region R ) 
+then
+  ( the displayable thing C can show the region R )
+.

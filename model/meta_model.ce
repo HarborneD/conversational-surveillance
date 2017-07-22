@@ -1,0 +1,18 @@
+conceptualise a ~ displayable thing ~ DT that
+  has the value LAT as ~ latitude ~ and
+  has the value LON as ~ longitude ~ and
+ ~ can show ~ the location LOC and
+ ~ can show ~ the region REG and
+ ~ is located in ~ the region REGL.
+
+conceptualise a ~ image source ~ ISo that
+  is a displayable thing and
+  has the value UR as ~ image url ~.
+
+conceptualise a ~ video source ~ VSo that
+  is a displayable thing and
+  has the value VUR as ~ video url ~.
+
+conceptualise a ~ geolocation source ~ GSo that
+  is a displayable thing.
+  

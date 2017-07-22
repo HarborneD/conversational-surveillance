@@ -1,0 +1,32 @@
+perform reset store.
+
+perform set 'autorun rules' to 'true'.
+
+-- Load the general model (core concepts)
+perform load sentences from url './ce/general/agents/agent_model.ce'.
+perform load sentences from url './ce/general/model/misc_model.ce'.
+perform load sentences from url './ce/general/model/spatial_model.ce'.
+perform load sentences from url './ce/general/model/temporal_model.ce'.
+
+
+perform load sentences from url './ce/surv/model/queries.ce'.
+
+
+perform load sentences from url './ce/surv/model/meta_model.ce'.
+perform load sentences from url './ce/surv/model/conversation_model.ce'.
+
+perform load sentences from url './ce/surv/model/location_models.ce'.
+perform load sentences from url './ce/surv/model/tfl_camera.ce'.
+
+perform load sentences from url './ce/surv/model/rules.ce'.
+
+perform load sentences from url './ce/surv/facts/conversation.ce'.
+perform load sentences from url './ce/surv/facts/locations.ce'.
+perform load sentences from url './ce/surv/facts/cameras.ce'.
+
+
+-- Load Hudson
+perform load sentences from url './hudson/ce/core/cmd/load_core.cecmd'.
+
+-- Run the rules
+

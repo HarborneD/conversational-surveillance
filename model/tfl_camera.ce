@@ -1,0 +1,11 @@
+conceptualise a ~ traffic camera ~ C that
+  is a spatial thing and
+  is a image source and
+  is a video source and
+  is a geolocation source and
+  has the value LO as ~ longitude ~ and
+  has the value LA as ~ latitude ~ and
+  has the value U as ~ url ~ and
+  has the value I as ~ id ~ and
+  has the value C as ~ common name ~.
+  
