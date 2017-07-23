@@ -1,5 +1,5 @@
-//var ce_address = "http://localhost:8080";
-var ce_address = "http://82.9.108.61:6080";
+var ce_address = "http://localhost:8080";
+//var ce_address = "http://82.9.108.61:6080";
 
 
 function HudsonAJAX(text,response_func,mode)
@@ -318,14 +318,14 @@ function GetEntityByID(id)
 
 function SaveSentence(sentence)
 {
-    var data = new FormData();
-    data.append('ceText', sentence);
+    // var data = new FormData();
+    // data.append('ceText', sentence);
     
     var store_get_url = ce_address+"/ce-store/stores/DEFAULT/sentences";
 
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "POST", store_get_url, false );
-    xmlHttp.send( data );
+    xmlHttp.open( "POST", store_get_url, true );
+    xmlHttp.send( sentence );
     var status = xmlHttp.status;
     var check= "";
 }
