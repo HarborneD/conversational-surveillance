@@ -1,5 +1,5 @@
-var ce_address = "http://localhost:8080";
-//var ce_address = "http://82.9.108.61:6080";
+//var ce_address = "http://localhost:8080";
+var ce_address = "http://82.9.108.61:6080";
 
 
 var user_number = 100; //TODO generate a user id
@@ -876,8 +876,8 @@ function GetEntityByID(id)
 
 function SaveSentence(sentence)
 {
-    var data = new FormData();
-    data.append('ceText', sentence);
+    // var data = new FormData();
+    // data.append('ceText', sentence);
     
     var store_get_url = ce_address+"/ce-store/stores/DEFAULT/sentences";
 
@@ -886,7 +886,7 @@ function SaveSentence(sentence)
     
     //xmlHttp.send( data );
     xmlHttp.send( sentence );
-    
+
     var status = xmlHttp.status;
     var check= "";
 }
