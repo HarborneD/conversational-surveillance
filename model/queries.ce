@@ -4,7 +4,7 @@ for which V1 and V2 is it true that
 .
 
 [LocationDisplaySearch]
-for which V1 and V2 is it true that 
-    ( the displayable thing V1 can show the location V2 )
+for which DISP and LOC is it true that 
+    ( the displayable thing DISP can show the location LOC )
 .
 

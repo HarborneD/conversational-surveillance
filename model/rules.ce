@@ -28,3 +28,30 @@ if
 then
   ( the displayable thing C can show the region R )
 .
+
+
+[CarDrivingIsLocated]
+if
+  ( the car C is driving on the road R ) and
+then
+  ( the car C is located at the road R )
+.
+
+
+[CarParkedIsLocated]
+if
+  ( the car C is parked at the location R ) 
+then
+  ( the car C is located at the location R )
+.
+
+
+[DetectableIsLocated]
+if
+  ( the detectable object DET is located at the location L ) and
+  ( the location L is located in the region REG) 
+then
+  ( the detectable object DET is located in the region REG)
+.
+
+

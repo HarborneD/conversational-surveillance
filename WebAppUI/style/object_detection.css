@@ -1,0 +1,52 @@
+#objects_container
+{
+    width: 40%;
+    display: inline-block;
+    float: right;
+    vertical-align: top;
+}
+
+#objects_pane {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 80%;
+    border-width: 2px;
+    border-style: solid;
+    overflow: auto;
+    padding: 10px;
+}
+
+.detected_object
+{
+    display:inline-block;
+    min-width:49%;
+    box-sizing: border-box;
+    border: solid black 1px;
+    position:relative;
+}
+
+.object_name
+{
+    width:100%;
+    display:inline-block;
+}
+
+.object_concept
+{   
+    position: absolute;
+    top:0px;
+    right:5px;
+    display:inline-block;
+} 
+
+.object_property
+{
+    width:100%;
+}
+
+.object_property_value
+{
+    display:inline-block;
+}

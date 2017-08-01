@@ -14,15 +14,22 @@ perform load sentences from url './ce/surv/model/queries.ce'.
 
 perform load sentences from url './ce/surv/model/meta_model.ce'.
 perform load sentences from url './ce/surv/model/conversation_model.ce'.
+perform load sentences from url './ce/surv/model/properties_model.ce'.
+
 
 perform load sentences from url './ce/surv/model/location_models.ce'.
 perform load sentences from url './ce/surv/model/tfl_camera.ce'.
 
+perform load sentences from url './ce/surv/model/detectables_model.ce'.
+perform load sentences from url './ce/surv/model/car_model.ce'.
+
 perform load sentences from url './ce/surv/model/rules.ce'.
 
 perform load sentences from url './ce/surv/facts/conversation.ce'.
+perform load sentences from url './ce/surv/facts/properties.ce'.
 perform load sentences from url './ce/surv/facts/locations.ce'.
 perform load sentences from url './ce/surv/facts/cameras.ce'.
+perform load sentences from url './ce/surv/facts/cars.ce'.
 
 
 -- Load Hudson

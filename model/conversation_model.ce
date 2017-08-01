@@ -1,10 +1,20 @@
 conceptualise an ~ action ~ D.
 
+conceptualise a ~ question type ~ TYP.
+
 conceptualise a ~ grouping word ~ G.
 
-conceptualise a ~ question word ~ Q.
+conceptualise a ~ question word ~ Q that
+~ refers to ~ the question type TP.
+
+conceptualise a ~ question phrase ~ QPHR that
+~ refers to ~ the question type TP.
+
+conceptualise a ~ preposition word ~ PREP.
 
 conceptualise a ~ message ~ M that
   has the value V as ~ sender ~ and
   has the value V as ~ text ~ and
   has the value V as ~ timestamp ~.
+
+conceptualise a ~ query expansion phrase ~ QEXP.

@@ -1,0 +1,45 @@
+there is a car named 'Test Car 0001' that
+  is driving on the road 'Tennyson Road' and 
+  has 'Toyota' as model and 
+  has 'Blue' as color and
+  has '50' as speed and
+  has 'Car' as object display name and
+  has 'model,color,speed,is driving on,is parked at' as display properties
+    .
+
+there is a car named 'Test Car 0002' that
+  is driving on the road 'Tennyson Road' and 
+  has 'Toyota' as model and 
+  has 'Black' as color and
+  has '30' as speed and
+  has 'Car' as object display name and
+  has 'model,color,speed,is driving on,is parked at' as display properties
+    .
+
+there is a car named 'Test Car 0003' that
+  is driving on the road 'Romford Road' and 
+  has 'BMW' as model and 
+  has 'Black' as color and
+  has '30' as speed and
+  has 'Car' as object display name and
+  has 'model,color,speed,is driving on,is parked at' as display properties
+    .
+
+there is a car named 'Test Car 0004' that
+  is driving on the road 'Tennyson Road' and 
+  has 'BMW' as model and 
+  has 'Blue' as color and
+  has '30' as speed and
+  has 'Car' as object display name and
+  has 'model,color,speed,is driving on,is parked at' as display properties
+    .
+
+
+there is a car named 'Test Car 0005' that
+  is driving on the road 'Romford Road' and 
+  has 'Mazda' as model and 
+  has 'Red' as color and
+  has '30' as speed and
+  has 'Car' as object display name and
+  has 'model,color,speed,is driving on,is parked at' as display properties
+    .

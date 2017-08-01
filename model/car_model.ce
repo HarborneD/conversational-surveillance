@@ -1,0 +1,13 @@
+conceptualise a ~ car ~ C that
+  is a detectable object and
+  is a spatial thing and
+  has the value LO as ~ longitude ~ and
+  has the value LA as ~ latitude ~ and
+  has the value I as ~ id ~ and
+  has the value MK as ~ model ~ and 
+  has the value CL as ~ color ~ and 
+  has the value DIR as ~ direction ~ and
+  has the value MPH as ~ speed ~ and
+  ~ is parked at ~ the location PRK and
+  ~ is driving on ~ the road DRV
+  .
