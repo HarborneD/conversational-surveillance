@@ -436,7 +436,7 @@ function FindRelationshipBetweenConcepts(concept_a,concept_b)
     var con_a_name = concept_a.entities[0]["_id"];
     var con_b_name = concept_b.entities[0]["_id"];
 
-    var object_properties_url = "http://localhost:8080/ce-store/concepts/"+con_a_name+"/properties/object";
+    var object_properties_url = ce_address+"/ce-store/concepts/"+con_a_name+"/properties/object";
 
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", object_properties_url, false );
