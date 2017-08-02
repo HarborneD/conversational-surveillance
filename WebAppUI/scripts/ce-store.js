@@ -275,6 +275,12 @@ function HandleQuestion(response,question_type_phrase)
 
     var query_expansion = CheckForQueryExpansion(response);
 
+    if(!query_expansion)
+    {
+        instance_a = undefined;
+        instance_b = undefined;
+    }
+
     if(typeof(concepts) !== "undefined")
     {
         con_a = concepts[0];
@@ -372,6 +378,8 @@ function HandleQuestion(response,question_type_phrase)
             }
             else // if not preposition
             {
+                
+
                 // build query answering: any A + modifier
                 var query_string = "";
                 query_string += "[Query USR_"+String(user_number)+"]\n";
