@@ -2,7 +2,7 @@
 var ce_address = "http://82.9.108.61:6080";
 
 
-var user_number = 100; //TODO generate a user id
+var user_number = Math.floor((Math.random() * 5000) +1);; //TODO generate a user id
 
 //used to track context
 var instance_a;
@@ -581,7 +581,7 @@ function FilterResultsForInstances(response,instance_a,instance_b)
 
 function HandleExistsQueryResponse(answer_results)
 {
-   if(answer_results > 0)
+   if(answer_results.length > 0)
     {
         PostToChat("Yes");
     }
