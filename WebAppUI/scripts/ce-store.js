@@ -1,6 +1,5 @@
-//var ce_address = "http://localhost:8080";
-var ce_address = "http://82.9.108.61:6080";
-
+var ce_address = "http://localhost:8080";
+//var ce_address = "http://82.9.108.61:6080";
 
 var user_number = Math.floor((Math.random() * 5000) +1);; //TODO generate a user id
 
@@ -225,7 +224,7 @@ function HandleShow(response)
 
         if(display_previous_query_results)
         {
-            ExecuteQuery("Query USR_"+String(user_number),DisplayFromQuery);
+            ExecuteQuery("Query USR_"+String(user_number),DisplayFromQuery,instance_a,instance_b);
         }
         else
         {
