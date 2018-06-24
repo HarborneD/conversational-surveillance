@@ -38,6 +38,7 @@ function OverlayCameras()
     var question_text = "list traffic cameras";
 
     HudsonAJAX(question_text,PopulateMap,"execute"); 
+
 }
 
 function PopulateMap(response)
@@ -135,3 +136,20 @@ map.addLayer(vectorLayer);
 
 
 OverlayCameras();
+
+
+$(document).on("mouseenter", ".camera_marker",function ()
+  {
+    $("#map_info_display").html(this.id.replace("_marker",""));
+    $("#map_info_container").css("display", "block");
+  });
+
+$(document).on("mouseleave", ".camera_marker",function ()
+  {
+    $("#map_info_container").css("display", "none");
+  });
+
+$(document).on("click", ".camera_marker",function ()
+  {
+    $("#input").val($("#input").val()+ " " + this.id.replace("_marker",""));
+  });

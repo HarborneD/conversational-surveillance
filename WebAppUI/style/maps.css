@@ -7,6 +7,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    position:relative;
 
 /*     height:300px;
     width:300px;*/
@@ -43,3 +44,14 @@
         background-color: #0FF;
         opacity: 1;
       }
+
+#map_info_container
+{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+    background-color: #4c4c4c;
+    color:white;
+    padding:5px;
+    display:none;
+}
