@@ -28,7 +28,6 @@ perform load sentences from url './ce/surv/model/rules.ce'.
 perform load sentences from url './ce/surv/facts/conversation.ce'.
 perform load sentences from url './ce/surv/facts/properties.ce'.
 perform load sentences from url './ce/surv/facts/locations.ce'.
-perform load sentences from url './ce/surv/facts/roads.ce'.
 perform load sentences from url './ce/surv/facts/cameras.ce'.
 perform load sentences from url './ce/surv/facts/cars.ce'.
 

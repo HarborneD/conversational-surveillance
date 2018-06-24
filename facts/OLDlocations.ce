@@ -25,3 +25,17 @@ there is a region boundry point named 'TR 4' that
     bounds the region 'Test Region' and
     has '51.54007850' as latitude and 
     has '-0.00106046' as longitude.
+
+
+
+there is a road named 'Romford Road' that
+  has '0.0529565' as longitude and 
+  has '51.5525474' as latitude and
+  has 'Romford Road' as road name and
+  is located in the region 'Test Region'.
+
+there is a road named 'Tennyson Road' that
+  has '0.0064386' as longitude and 
+  has '51.541137' as latitude and
+  has 'Tennyson Road' as road name and
+  is located in the region 'Test Region'.
