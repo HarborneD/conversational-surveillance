@@ -7,6 +7,10 @@ conceptualise a ~ region ~ REG that
   has the value YTWO as ~ y2 ~ and 
   is a geolocation source.
 
+conceptualise a ~ region boundry point ~ BOUND that
+    is a geolocation source and
+    ~ bounds ~ the region REG.
+
 conceptualise a ~ location ~ LOCA that
     is a geolocation source and 
     ~ is located in ~ the region REG.
