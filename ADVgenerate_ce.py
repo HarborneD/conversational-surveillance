@@ -4,6 +4,10 @@ import os
 
 import re
 
+from osm_road_search import GetEstimatedRoadLatLong
+
+import numpy as np
+
 def GetAllCameraJson(force_fresh = False):
     cache_file = 'cached_cams.json'
     if(os.path.exists(cache_file) and not force_fresh):
@@ -69,8 +73,14 @@ def RoadDetailsFromCamera(camera,road_name_replacements):
         cleaned_road = re.sub(regex, "", road).strip()
         if(len(cleaned_road) <= 3):
             continue
-        road_details.append({"road_name":cleaned_road})
+        
+        estimated_road_pos = GetEstimatedRoadLatLong(cleaned_road, np.array([ camera["lat"],camera["lon"] ]))
 
+        if(len(estimated_road_pos) >0):
+            road_details.append({"road_name":cleaned_road,"latitude":estimated_road_pos[0],"longitude":estimated_road_pos[1]})
+        else:
+            road_details.append({"road_name":cleaned_road,"latitude":camera["lat"],"longitude":camera["lon"]})
+    
     return road_details
 
 
