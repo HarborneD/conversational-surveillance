@@ -10,21 +10,23 @@ there is a preposition word named 'in'.
 there is a preposition word named 'on'.
 
 
+
+there is an action named 'show'.
+
 there is a question type named 'exists'.
 there is a question type named 'count'.
 there is a question type named 'list'.
 
-
 there is a question phrase named 'are there any' that
 refers to the question type 'exists'.
 
-
 there is a question phrase named 'are there' that
 refers to the question type 'exists'.
-
 
 there is a question phrase named 'how many' that
 refers to the question type 'count'.
 
 there is a query expansion phrase named 'of those'.
 there is a query expansion phrase named 'of these'.
+
+

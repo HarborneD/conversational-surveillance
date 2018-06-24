@@ -10,12 +10,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
-    width: 80%;
-    border-width: 2px;
-    border-style: solid;
+    width: 100%;
     overflow: auto;
     padding: 10px;
+    box-sizing: border-box;
 }
 
 .detected_object
@@ -25,12 +23,17 @@
     box-sizing: border-box;
     border: solid black 1px;
     position:relative;
+    margin-bottom: 2px;
+    font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+    border:solid #4fc08d thin;
+    padding:5px;
 }
 
 .object_name
 {
     width:100%;
     display:inline-block;
+    font-weight:bold;
 }
 
 .object_concept

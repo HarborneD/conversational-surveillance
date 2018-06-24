@@ -24,15 +24,22 @@ height:40px;
  padding:5px;
 
 box-sizing: border-box;
+border:none;
 }
 
 #send
 {
-width:28%;
+width:30%;
 display:block;
 float:right;vertical-align: top;
 height:40px;
 box-sizing: border-box;
+background-color: #4fc08d;
+border:none;
+color:white;
+font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: large;
+text-transform: uppercase;
 }
 
 #message_container
@@ -41,12 +48,15 @@ display:block;
 margin-left:auto;
 margin-right:auto;
 margin-top:10px;
-width:80%;
+width:100%;
 border-width:2px;
 border-style:solid;
 min-height: 400px;
 overflow: auto;
 padding: 10px;
+background-color:#4c4c4c;
+font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+box-sizing: border-box;
 }
 
 #messages li
@@ -57,26 +67,29 @@ display: inline-block;
 
 .sent_message
 {
-padding:5px 10px;
-float:left;
-border-radius:15px;
-background-color:green;
-color:white;
+padding:10px 15px;
+float:right;
+background-color:white;
+color:black;
+border:solid #4fc08d thin;
 }
 
 .received_message
 {
-padding:5px 10px;
-float:right;
-border-radius:15px;
-background-color:blue;
+padding:10px 15px;
+float:left;
+background-color:#4fc08d;
 color:white;
+border:solid white thin;
 }
 #input_container
 {
-width:90%;
-margin-top:10px;
+width:100%;
 display:block;
 margin-left: auto;
 margin-right: auto;
+border: solid #aeaeae thin;
+height: 45px;
+padding:1px;
+box-sizing: border-box;
 }

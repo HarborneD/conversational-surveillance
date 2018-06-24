@@ -22,9 +22,8 @@ vertical-align: top;
     width:100%;
     display:block;
     min-height:40px;
-    border-bottom: solid black 1px;
-
-    border-top: solid black 1px;
+   
+    background-color: #4fc08d;
 }
 
 #overview_pane,#info_pane

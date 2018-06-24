@@ -1,13 +1,11 @@
+
+
 conceptualise a ~ region ~ REG that
   has the value XONE as ~ x1 ~ and
   has the value XTWO as ~ x2 ~ and
   has the value YONE as ~ y1 ~ and
   has the value YTWO as ~ y2 ~ and 
   is a geolocation source.
-
-conceptualise a ~ region boundry point ~ BOUND that
-    is a geolocation source and
-    ~ bounds ~ the region REG.
 
 conceptualise a ~ location ~ LOCA that
     is a geolocation source and 
