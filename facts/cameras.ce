@@ -6,8 +6,8 @@ there is a traffic camera named 'tfl Camera 02151' that
   has 'Romford Rd / Tennyson Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02151.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02151.mp4' as video url
-and can show the location 'Romford Road '
-and can show the location ' Tennyson Road'.
+and can show the location 'Romford Road'
+and can show the location 'Tennyson Road'.
 
 there is a traffic camera named 'tfl Camera 07450' that
   has '-0.13484' as longitude and 
@@ -38,8 +38,8 @@ there is a traffic camera named 'tfl Camera 09747' that
   has 'Edgware Way / Broadfields Ave' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09747.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09747.mp4' as video url
-and can show the location 'Edgware Way '
-and can show the location ' Broadfields Avenue'.
+and can show the location 'Edgware Way'
+and can show the location 'Broadfields Avenue'.
 
 there is a traffic camera named 'tfl Camera 06600' that
   has '-0.1957' as longitude and 
@@ -72,7 +72,7 @@ there is a traffic camera named 'tfl Camera 03758' that
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03758.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03758.mp4' as video url
 and can show the location 'Tulse Hill'
-and can show the location ' Thurlow Park Road'.
+and can show the location 'Thurlow Park Road'.
 
 there is a traffic camera named 'tfl Camera 02900' that
   has '-0.02256' as longitude and 
@@ -348,8 +348,8 @@ there is a traffic camera named 'tfl Camera 06580' that
   has 'Old Brompton Rd / Earls Court Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06580.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06580.mp4' as video url
-and can show the location 'Old Brompton Road '
-and can show the location ' Earls Court Road'.
+and can show the location 'Old Brompton Road'
+and can show the location 'Earls Court Road'.
 
 there is a traffic camera named 'tfl Camera 01429' that
   has '-0.05135' as longitude and 
@@ -479,8 +479,8 @@ there is a traffic camera named 'tfl Camera 06522' that
   has 'Bressenden Place / Stag Place' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06522.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06522.mp4' as video url
-and can show the location 'Bressenden Place '
-and can show the location ' Streetag Place'.
+and can show the location 'Bressenden Place'
+and can show the location 'Streetag Place'.
 
 there is a traffic camera named 'tfl Camera 07311' that
   has '-0.29256' as longitude and 
@@ -574,8 +574,8 @@ there is a traffic camera named 'tfl Camera 09650' that
   has 'White Lion St / Upper St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09650.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09650.mp4' as video url
-and can show the location 'White Lion Street '
-and can show the location ' Upper Street'.
+and can show the location 'White Lion Street'
+and can show the location 'Upper Street'.
 
 there is a traffic camera named 'tfl Camera 09078' that
   has '-0.06816' as longitude and 
@@ -944,7 +944,7 @@ there is a traffic camera named 'tfl Camera 02001' that
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02001.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02001.mp4' as video url
 and can show the location 'Goodmans Yard'
-and can show the location ' Mansell Streetreet'.
+and can show the location 'Mansell Streetreet'.
 
 there is a traffic camera named 'tfl Camera 03720' that
   has '0.02974' as longitude and 
@@ -1193,8 +1193,8 @@ there is a traffic camera named 'tfl Camera 02158' that
   has 'Romford Rd / Carlton Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02158.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02158.mp4' as video url
-and can show the location 'Romford Road '
-and can show the location ' Carlton Road'.
+and can show the location 'Romford Road'
+and can show the location 'Carlton Road'.
 
 there is a traffic camera named 'tfl Camera 00816' that
   has '-0.03214' as longitude and 
@@ -1214,8 +1214,8 @@ there is a traffic camera named 'tfl Camera 08853' that
   has 'Edgware Road / Praed Street' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08853.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08853.mp4' as video url
-and can show the location 'Edgware Road '
-and can show the location ' Praed Streetreet'.
+and can show the location 'Edgware Road'
+and can show the location 'Praed Streetreet'.
 
 there is a traffic camera named 'tfl Camera 03666' that
   has '-0.08359' as longitude and 
@@ -1297,8 +1297,8 @@ there is a traffic camera named 'tfl Camera 02156' that
   has 'Romford Rd / Green St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02156.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02156.mp4' as video url
-and can show the location 'Romford Road '
-and can show the location ' Green Street'.
+and can show the location 'Romford Road'
+and can show the location 'Green Street'.
 
 there is a traffic camera named 'tfl Camera 08863' that
   has '-0.15787' as longitude and 
@@ -1569,8 +1569,8 @@ there is a traffic camera named 'tfl Camera 06737' that
   has 'The Causeway / Faggs Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06737.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06737.mp4' as video url
-and can show the location 'The Causeway '
-and can show the location ' Faggs Road'.
+and can show the location 'The Causeway'
+and can show the location 'Faggs Road'.
 
 there is a traffic camera named 'tfl Camera 02255' that
   has '-0.05451' as longitude and 
@@ -1750,8 +1750,8 @@ there is a traffic camera named 'tfl Camera 08968' that
   has 'Hendon Way / Ridge Hill' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08968.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08968.mp4' as video url
-and can show the location 'Hendon Way '
-and can show the location ' Ridge Hill'.
+and can show the location 'Hendon Way'
+and can show the location 'Ridge Hill'.
 
 there is a traffic camera named 'tfl Camera 04355' that
   has '-0.09636' as longitude and 
@@ -2233,8 +2233,8 @@ there is a traffic camera named 'tfl Camera 04511' that
   has 'Brixton Hill / Elm Park' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04511.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04511.mp4' as video url
-and can show the location 'Brixton Hill '
-and can show the location ' Elm Park'.
+and can show the location 'Brixton Hill'
+and can show the location 'Elm Park'.
 
 there is a traffic camera named 'tfl Camera 04354' that
   has '-0.09692' as longitude and 
@@ -2362,8 +2362,8 @@ there is a traffic camera named 'tfl Camera 03591' that
   has 'Kings X Rd / Swinton St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03591.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03591.mp4' as video url
-and can show the location 'Kings X Road '
-and can show the location ' Swinton Street'.
+and can show the location 'Kings X Road'
+and can show the location 'Swinton Street'.
 
 there is a traffic camera named 'tfl Camera 04606' that
   has '-0.10738' as longitude and 
@@ -2721,8 +2721,8 @@ there is a traffic camera named 'tfl Camera 06923' that
   has 'Bath Rd / Oxford Ave' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06923.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06923.mp4' as video url
-and can show the location 'Bath Road '
-and can show the location ' Oxford Avenue'.
+and can show the location 'Bath Road'
+and can show the location 'Oxford Avenue'.
 
 there is a traffic camera named 'tfl Camera 01615' that
   has '-0.01696' as longitude and 
@@ -2797,8 +2797,8 @@ there is a traffic camera named 'tfl Camera 08982' that
   has 'Watford Way / Aerodrome Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08982.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08982.mp4' as video url
-and can show the location 'Watford Way '
-and can show the location ' Aerodrome Road'.
+and can show the location 'Watford Way'
+and can show the location 'Aerodrome Road'.
 
 there is a traffic camera named 'tfl Camera 08954' that
   has '-0.17519' as longitude and 
@@ -3589,8 +3589,7 @@ there is a traffic camera named 'tfl Camera 04550' that
   has 'Tooting Bec Rd / A24' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04550.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04550.mp4' as video url
-and can show the location 'Tooting Bec Road '
-and can show the location ' A24'.
+and can show the location 'Tooting Bec Road'.
 
 there is a traffic camera named 'tfl Camera 09612' that
   has '-0.09078' as longitude and 
@@ -3611,8 +3610,8 @@ there is a traffic camera named 'tfl Camera 02152' that
   has 'Romford Rd / Vicarage Lane' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02152.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02152.mp4' as video url
-and can show the location 'Romford Road '
-and can show the location ' Vicarage Lane'.
+and can show the location 'Romford Road'
+and can show the location 'Vicarage Lane'.
 
 there is a traffic camera named 'tfl Camera 04486' that
   has '-0.11663' as longitude and 
@@ -3644,8 +3643,8 @@ there is a traffic camera named 'tfl Camera 06521' that
   has 'Wilton Road / Bridge Place' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06521.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06521.mp4' as video url
-and can show the location 'Wilton Road '
-and can show the location ' Bridge Place'.
+and can show the location 'Wilton Road'
+and can show the location 'Bridge Place'.
 
 there is a traffic camera named 'tfl Camera 00884' that
   has '0.05681' as longitude and 
@@ -3763,8 +3762,8 @@ there is a traffic camera named 'tfl Camera 07355' that
   has 'Pentonville Road / Penton Rise' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07355.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07355.mp4' as video url
-and can show the location 'Pentonville Road '
-and can show the location ' Penton Rise'.
+and can show the location 'Pentonville Road'
+and can show the location 'Penton Rise'.
 
 there is a traffic camera named 'tfl Camera 06641' that
   has '-0.19082' as longitude and 
@@ -4322,7 +4321,7 @@ there is a traffic camera named 'tfl Camera 04575' that
   has 'A217 / Rose Hill R.bout' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04575.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04575.mp4' as video url
-and can show the location ' Rose Hill R.bout'.
+and can show the location 'Rose Hill R.bout'.
 
 there is a traffic camera named 'tfl Camera 03813' that
   has '-0.02073' as longitude and 
@@ -4364,7 +4363,7 @@ there is a traffic camera named 'tfl Camera 02160' that
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02160.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02160.mp4' as video url
 and can show the location 'Romford Road'
-and can show the location ' Rabbits Road'.
+and can show the location 'Rabbits Road'.
 
 there is a traffic camera named 'tfl Camera 09053' that
   has '-0.21202' as longitude and 
@@ -4539,7 +4538,7 @@ there is a traffic camera named 'tfl Camera 01408' that
   has 'A10 / Downham Road' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01408.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01408.mp4' as video url
-and can show the location ' Downham Road'.
+and can show the location 'Downham Road'.
 
 there is a traffic camera named 'tfl Camera 07379' that
   has '-0.22793' as longitude and 
@@ -4601,8 +4600,8 @@ there is a traffic camera named 'tfl Camera 01252' that
   has 'Curtain Rd / Old Street' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01252.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01252.mp4' as video url
-and can show the location 'Curtain Road '
-and can show the location ' Old Streetreet'.
+and can show the location 'Curtain Road'
+and can show the location 'Old Streetreet'.
 
 there is a traffic camera named 'tfl Camera 00104' that
   has '-0.2373' as longitude and 
@@ -4665,8 +4664,8 @@ there is a traffic camera named 'tfl Camera 06743' that
   has 'THE PARKWAY / UXBRIDGE ROAD' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06743.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06743.mp4' as video url
-and can show the location 'THE PARKWAY '
-and can show the location ' UXBRIDGE ROAD'.
+and can show the location 'THE PARKWAY'
+and can show the location 'UXBRIDGE ROAD'.
 
 there is a traffic camera named 'tfl Camera 09631' that
   has '-0.11649' as longitude and 
@@ -4763,8 +4762,8 @@ there is a traffic camera named 'tfl Camera 06683' that
   has 'The Vale / Eastman Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06683.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06683.mp4' as video url
-and can show the location 'The Vale '
-and can show the location ' Eastman Road'.
+and can show the location 'The Vale'
+and can show the location 'Eastman Road'.
 
 there is a traffic camera named 'tfl Camera 08402' that
   has '0.0468' as longitude and 
@@ -4774,8 +4773,8 @@ there is a traffic camera named 'tfl Camera 08402' that
   has 'Woodford Ave / Clayhall Ave' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08402.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08402.mp4' as video url
-and can show the location 'Woodford Avenue '
-and can show the location ' Clayhall Avenue'.
+and can show the location 'Woodford Avenue'
+and can show the location 'Clayhall Avenue'.
 
 there is a traffic camera named 'tfl Camera 04624' that
   has '-0.18575' as longitude and 
@@ -5032,8 +5031,8 @@ there is a traffic camera named 'tfl Camera 02025' that
   has 'Leman St / Prescot St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02025.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02025.mp4' as video url
-and can show the location 'Leman Street '
-and can show the location ' Prescot Street'.
+and can show the location 'Leman Street'
+and can show the location 'Prescot Street'.
 
 there is a traffic camera named 'tfl Camera 03118' that
   has '0.0454' as longitude and 
@@ -5325,8 +5324,8 @@ there is a traffic camera named 'tfl Camera 02433' that
   has 'Eastern Ave / Gallows Corner' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02433.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02433.mp4' as video url
-and can show the location 'Eastern Avenue '
-and can show the location ' Gallows Corner'.
+and can show the location 'Eastern Avenue'
+and can show the location 'Gallows Corner'.
 
 there is a traffic camera named 'tfl Camera 01424' that
   has '-0.07226' as longitude and 
@@ -5336,8 +5335,8 @@ there is a traffic camera named 'tfl Camera 01424' that
   has 'Tottenham High Road / Seven Sisters Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01424.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01424.mp4' as video url
-and can show the location 'Tottenham High Road '
-and can show the location ' Seven Sisters Road'.
+and can show the location 'Tottenham High Road'
+and can show the location 'Seven Sisters Road'.
 
 there is a traffic camera named 'tfl Camera 06514' that
   has '-0.15163' as longitude and 
@@ -5964,7 +5963,7 @@ there is a traffic camera named 'tfl Camera 07393' that
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07393.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07393.mp4' as video url
 and can show the location 'Baker Street'
-and can show the location ' Marylebone Road'.
+and can show the location 'Marylebone Road'.
 
 there is a traffic camera named 'tfl Camera 00811' that
   has '-0.01169' as longitude and 
@@ -5984,8 +5983,8 @@ there is a traffic camera named 'tfl Camera 02102' that
   has 'Whitechapel Rd / Plumbers Row' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02102.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02102.mp4' as video url
-and can show the location 'Whitechapel Road '
-and can show the location ' Plumbers Row'.
+and can show the location 'Whitechapel Road'
+and can show the location 'Plumbers Row'.
 
 there is a traffic camera named 'tfl Camera 03606' that
   has '-0.09159' as longitude and 
@@ -5995,8 +5994,8 @@ there is a traffic camera named 'tfl Camera 03606' that
   has 'New Kent Rd / Balfour St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03606.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03606.mp4' as video url
-and can show the location 'New Kent Road '
-and can show the location ' Balfour Street'.
+and can show the location 'New Kent Road'
+and can show the location 'Balfour Street'.
 
 there is a traffic camera named 'tfl Camera 09607' that
   has '-0.10827' as longitude and 
@@ -6186,7 +6185,7 @@ there is a traffic camera named 'tfl Camera 04510' that
   has 'Brixton Hill /Lambert Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04510.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04510.mp4' as video url
-and can show the location 'Brixton Hill '
+and can show the location 'Brixton Hill'
 and can show the location 'Lambert Road'.
 
 there is a traffic camera named 'tfl Camera 04659' that
@@ -6403,8 +6402,8 @@ there is a traffic camera named 'tfl Camera 07330' that
   has 'City Road / Epworth St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07330.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07330.mp4' as video url
-and can show the location 'City Road '
-and can show the location ' Epworth Street'.
+and can show the location 'City Road'
+and can show the location 'Epworth Street'.
 
 there is a traffic camera named 'tfl Camera 08010' that
   has '-0.28891' as longitude and 
@@ -6467,8 +6466,8 @@ there is a traffic camera named 'tfl Camera 08958' that
   has 'Finchley Road / West End Lane' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08958.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08958.mp4' as video url
-and can show the location 'Finchley Road '
-and can show the location ' West End Lane'.
+and can show the location 'Finchley Road'
+and can show the location 'West End Lane'.
 
 there is a traffic camera named 'tfl Camera 04901' that
   has '-0.21576' as longitude and 
@@ -6574,7 +6573,7 @@ there is a traffic camera named 'tfl Camera 07310' that
   has 'A40 / Near Connell Crescent' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07310.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07310.mp4' as video url
-and can show the location ' Near Connell Crescent'.
+and can show the location 'Near Connell Crescent'.
 
 there is a traffic camera named 'tfl Camera 00824' that
   has '0.00185' as longitude and 
@@ -6747,8 +6746,8 @@ there is a traffic camera named 'tfl Camera 02307' that
   has 'Barking Rd / W of Bartle Ave' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02307.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02307.mp4' as video url
-and can show the location 'Barking Road '
-and can show the location ' W of Bartle Avenue'.
+and can show the location 'Barking Road'
+and can show the location 'W of Bartle Avenue'.
 
 there is a traffic camera named 'tfl Camera 01414' that
   has '-0.07486' as longitude and 
@@ -6908,8 +6907,8 @@ there is a traffic camera named 'tfl Camera 09640' that
   has 'Grays Inn Rd / Acton St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09640.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09640.mp4' as video url
-and can show the location 'Grays Inn Road '
-and can show the location ' Acton Street'.
+and can show the location 'Grays Inn Road'
+and can show the location 'Acton Street'.
 
 there is a traffic camera named 'tfl Camera 01510' that
   has '-0.08591' as longitude and 
@@ -6950,8 +6949,8 @@ there is a traffic camera named 'tfl Camera 08753' that
   has 'Park Lane / Upper Grosvenor St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08753.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08753.mp4' as video url
-and can show the location 'Park Lane '
-and can show the location ' Upper Grosvenor Street'.
+and can show the location 'Park Lane'
+and can show the location 'Upper Grosvenor Street'.
 
 there is a traffic camera named 'tfl Camera 00333' that
   has '0.13535' as longitude and 
@@ -7013,8 +7012,8 @@ there is a traffic camera named 'tfl Camera 08925' that
   has 'Park Rd / Gloucester Pl' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08925.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.08925.mp4' as video url
-and can show the location 'Park Road '
-and can show the location ' Gloucester Pl'.
+and can show the location 'Park Road'
+and can show the location 'Gloucester Pl'.
 
 there is a traffic camera named 'tfl Camera 02080' that
   has '-0.06906' as longitude and 
@@ -7783,8 +7782,8 @@ there is a traffic camera named 'tfl Camera 01460' that
   has 'Gtreat Cambridge Rd / Church St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01460.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.01460.mp4' as video url
-and can show the location 'Greatreat Cambridge Road '
-and can show the location ' Church Street'.
+and can show the location 'Greatreat Cambridge Road'
+and can show the location 'Church Street'.
 
 there is a traffic camera named 'tfl Camera 06706' that
   has '-0.22031' as longitude and 
@@ -7826,7 +7825,7 @@ there is a traffic camera named 'tfl Camera 03753' that
   has 'A205 / Catford Hill' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03753.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03753.mp4' as video url
-and can show the location ' Catford Hill'.
+and can show the location 'Catford Hill'.
 
 there is a traffic camera named 'tfl Camera 08003' that
   has '-0.2773' as longitude and 
@@ -8038,8 +8037,8 @@ there is a traffic camera named 'tfl Camera 09719' that
   has 'Archway Rd / Causton Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09719.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.09719.mp4' as video url
-and can show the location 'Archway Road '
-and can show the location ' Causton Road'.
+and can show the location 'Archway Road'
+and can show the location 'Causton Road'.
 
 there is a traffic camera named 'tfl Camera 09720' that
   has '-0.14369' as longitude and 
@@ -8189,8 +8188,8 @@ there is a traffic camera named 'tfl Camera 02154' that
   has 'Romford Rd / Sprowston Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02154.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02154.mp4' as video url
-and can show the location 'Romford Road '
-and can show the location ' Sprowston Road'.
+and can show the location 'Romford Road'
+and can show the location 'Sprowston Road'.
 
 there is a traffic camera named 'tfl Camera 02314' that
   has '0.02915' as longitude and 
@@ -8347,8 +8346,8 @@ there is a traffic camera named 'tfl Camera 03556' that
   has 'Evelyn Street / Bestwood St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03556.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03556.mp4' as video url
-and can show the location 'Evelyn Streetreet '
-and can show the location ' Bestwood Street'.
+and can show the location 'Evelyn Streetreet'
+and can show the location 'Bestwood Street'.
 
 there is a traffic camera named 'tfl Camera 03770' that
   has '-0.13252' as longitude and 
@@ -8477,7 +8476,7 @@ there is a traffic camera named 'tfl Camera 06742' that
   has 'A312 / White Hart R.bout' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06742.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06742.mp4' as video url
-and can show the location ' White Hart R.bout'.
+and can show the location 'White Hart R.bout'.
 
 there is a traffic camera named 'tfl Camera 03658' that
   has '-0.05942' as longitude and 
@@ -8594,8 +8593,8 @@ there is a traffic camera named 'tfl Camera 06908' that
   has 'Great West Rd / Thornbury Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06908.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.06908.mp4' as video url
-and can show the location 'Great West Road '
-and can show the location ' Thornbury Road'.
+and can show the location 'Great West Road'
+and can show the location 'Thornbury Road'.
 
 there is a traffic camera named 'tfl Camera 08961' that
   has '-0.18171' as longitude and 
@@ -8647,8 +8646,8 @@ there is a traffic camera named 'tfl Camera 03590' that
   has 'Kings X Rd / Wharton St' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03590.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.03590.mp4' as video url
-and can show the location 'Kings X Road '
-and can show the location ' Wharton Street'.
+and can show the location 'Kings X Road'
+and can show the location 'Wharton Street'.
 
 there is a traffic camera named 'tfl Camera 04662' that
   has '-0.17578' as longitude and 
@@ -8754,7 +8753,7 @@ there is a traffic camera named 'tfl Camera 04377' that
   has 'A232 / Sutton Court Road' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04377.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04377.mp4' as video url
-and can show the location ' Sutton Court Road'.
+and can show the location 'Sutton Court Road'.
 
 there is a traffic camera named 'tfl Camera 06530' that
   has '-0.14971' as longitude and 
@@ -9400,8 +9399,8 @@ there is a traffic camera named 'tfl Camera 04509' that
   has 'Brixton Hill / Hayter Rd' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04509.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.04509.mp4' as video url
-and can show the location 'Brixton Hill '
-and can show the location ' Hayter Road'.
+and can show the location 'Brixton Hill'
+and can show the location 'Hayter Road'.
 
 there is a traffic camera named 'tfl Camera 00870' that
   has '-0.05247' as longitude and 
@@ -9465,7 +9464,7 @@ there is a traffic camera named 'tfl Camera 07314' that
   has 'A40 / Target Roundabout' as common name and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07314.jpg' as image url and
   has 'https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.07314.mp4' as video url
-and can show the location ' Target Roundabout'.
+and can show the location 'Target Roundabout'.
 
 there is a traffic camera named 'tfl Camera 04338' that
   has '-0.09223' as longitude and 

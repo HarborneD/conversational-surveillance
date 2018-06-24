@@ -66,7 +66,7 @@ def RoadDetailsFromCamera(camera,road_name_replacements):
 
     for road in roads:
         regex = re.compile("\w\d+ ")
-        cleaned_road = re.sub(regex, "", road)
+        cleaned_road = re.sub(regex, "", road).strip()
         if(len(cleaned_road) <= 3):
             continue
         road_details.append({"road_name":cleaned_road})
@@ -126,11 +126,11 @@ for road_detail in all_road_details:
     road_ce_output_string += "\n\n"
 
 
-with open('new_cameras.ce', 'w') as ce_file:
+with open('cameras.ce', 'w') as ce_file:
     ce_file.write(ce_output_string)
 
 
-with open('new_road.ce', 'w') as ce_file:
+with open('roads.ce', 'w') as ce_file:
     ce_file.write(road_ce_output_string)
         
 
